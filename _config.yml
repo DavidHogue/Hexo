@@ -72,6 +72,7 @@ disqus_shortname:
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 plugins:
 - hexo-generator-feed
+- hexo-generator-sitemap
 
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: davidhogue.com
