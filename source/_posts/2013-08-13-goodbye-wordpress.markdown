@@ -1,4 +1,4 @@
----  
+﻿---  
 author: David Hogue  
 layout: post  
 title: Goodbye Wordpress  
