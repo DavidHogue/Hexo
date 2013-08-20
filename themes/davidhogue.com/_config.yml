@@ -1,6 +1,8 @@
 menu:
-  Home: /
-  Archives: /archives
+  Blog: /blog/
+  About: /
+  Contact: mailto:david@davidhogue.com
+  Subscribe: 
 
 widgets: 
 #- search
