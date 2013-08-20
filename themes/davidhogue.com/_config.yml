@@ -10,6 +10,7 @@ widgets:
 #- tag
 #- twitter
 - recent_posts
+- ads
 
 excerpt_link: Read More
 
