@@ -4,8 +4,7 @@ comments: true
 date: 2013-05-23 05:30:54+00:00
 layout: post
 slug: finding-references-to-javascript-objects-that-are-hanging-around-after-they-have-been-removed
-title: Finding references to JavaScript objects that are hanging around after they
-  have been removed
+title: Finding references to JavaScript objects that are hanging around after they have been removed
 wordpress_id: 1185
 categories:
 - Software Development

@@ -4,8 +4,7 @@ comments: true
 date: 2012-06-07 22:31:47+00:00
 layout: post
 slug: how-do-you-implement-a-feature-when-there-are-concerns-about-potential-future-problems
-title: How do you implement a feature when there are concerns about potential future
-  problems?
+title: How do you implement a feature when there are concerns about potential future problems?
 wordpress_id: 941
 categories:
 - Software Development

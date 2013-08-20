@@ -4,8 +4,7 @@ comments: true
 date: 2011-07-28 18:17:06+00:00
 layout: post
 slug: in-response-to-request-for-comments-issues-with-net-and-microsoft-product-versioning
-title: 'In response to Request for Comments: Issues with .NET and Microsoft Product
-  Versioning'
+title: 'In response to Request for Comments: Issues with .NET and Microsoft Product Versioning'
 wordpress_id: 51
 categories:
 - Technology
