@@ -3,10 +3,11 @@ menu:
   Archives: /archives
 
 widgets: 
-- search
-- category
-- tag
-- twitter
+#- search
+#- category
+#- tag
+#- twitter
+- recent_posts
 
 excerpt_link: Read More
 
@@ -16,7 +17,7 @@ twitter:
   tweet_count: 5
 
 addthis:
-  enable: true
+  enable: false
   pubid:
   facebook: true
   twitter: true
