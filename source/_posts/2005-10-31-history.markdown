@@ -1,0 +1,22 @@
+﻿---
+author: David Hogue
+comments: true
+date: 2005-10-31 08:30:46+00:00
+layout: post
+published: false
+slug: history
+title: History
+wordpress_id: 293
+tags:
+- old-blog
+---
+
+So a lot has happened lately and I need to write. This might not be at all interesting and I might not even publicly post this. I have been slacking on writing in this thing so maybe this is a buildup because of that. (I do need to fix this site up a bit)
+
+Where to start… Last weekend I moved back in with my parents. (hm, not a good way to start this…) Let’s back up a bit. Over the last year a lot has changed in my life. It was about a year and a half ago that I started my current job. At my job I get to do all kinds of things with computers and programming and I get paid for it. I love my job even though the new job ’smell’ has worn off now. Also over this same period of time I was renting a house with a few other guys. We would play video games, drink together, stuff like that. During the summer we had friends over to play games (Halo 2 mostly). We would get drunk and have a grand old time. We had a lot of fun.
+
+Last week I had to say goodbye to that house. I loved that house. I made some good friends there and had some of the best times of my life. I’m really afraid that now I won’t get to hang out with some of those friends anymore. Sure, I’ll probably see some of them again, but I just don’t know if it will be the same anymore. (I’m a nerd. Making friends is difficult for me.)
+
+Now, back to work: Things are changing there too. We just nice new desks last week. I’m feeling a little stressed. There is a lot going on. People have very high expectations of me since I set the bar so high on other projects. I just hate it when I can’t get a rock solid product done in the allotted time. I really don’t want to put bad code out there, so I spend more time on it. I also get distracted easily and I have trouble on projects that should be simple. It seems like the big complicated (yet isolated) projects are much easier than the small extensions to an existing system.
+
+So, there is some back story. Next I’ll actually post what’s on my mind. Wow, I’m not really sure if I want to post this for the whole world to see. Well, here goes nothing.

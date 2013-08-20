@@ -1,0 +1,15 @@
+---
+author: David Hogue
+comments: true
+date: 2013-04-30 14:55:24+00:00
+layout: post
+slug: it-lives
+title: It Lives
+wordpress_id: 1179
+categories:
+- Meta
+---
+
+Finally resolved an issue that was keeping my blog offline for several days. Apparently the Wordpress update was not compatible with a plugin I had.
+
+Unfortunately it took hours to discover that because php would give me no errors when it loaded. I'd get a http 500 and a blank page. No errors logs or anything. I should really setup a monitoring service so I find these things quicker in the future.

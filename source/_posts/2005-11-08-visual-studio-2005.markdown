@@ -1,0 +1,27 @@
+---
+author: David Hogue
+comments: false
+date: 2005-11-08 03:54:30+00:00
+layout: post
+slug: visual-studio-2005
+title: Visual Studio 2005
+wordpress_id: 24
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+I'm installing the Visual Studio 2005 RTM right now.  It did tell me to uninstall the betas of SQL Server 2005 and the .net framework 2.0.  I only had the .net framework, so I uninstalled that and everything seems to be installing fine.
+
+Sure is taking a while to install.   Grrr, have to restart....
+
+
+
+* * *
+
+
+
+I started this post a few days ago.  Since then I have been using vs2005 as my primary ide.  It mostly works.  A couple times a day the whole thing will lock up for 30 seconds to a minute, then continue on.  It seems a little slower and buggier than the betas.
+
+I really like the improved code ahead editing (intellisense, syntax highlighting, etc.)  Now I need to see about upgrading the servers around here so that I can actually use some new features like generics.

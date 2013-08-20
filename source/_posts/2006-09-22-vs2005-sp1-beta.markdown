@@ -1,0 +1,19 @@
+---
+author: David Hogue
+comments: false
+date: 2006-09-22 02:54:21+00:00
+layout: post
+slug: vs2005-sp1-beta
+title: Yay!
+wordpress_id: 161
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+[Visual Studio 2005 SP1](https://connect.microsoft.com/VisualStudio/content/content.aspx?ContentID=3311) is getting closer.  The beta is due on the 25th.
+
+It looks you have to apply "by filing out the nomination survey" to get the beta.
+
+I can't wait for this to come out.  vs2005 has so many issues that need fixing.

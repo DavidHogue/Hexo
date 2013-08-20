@@ -1,0 +1,27 @@
+---
+author: David Hogue
+comments: false
+date: 2006-08-30 08:19:11+00:00
+layout: post
+slug: vacation
+title: Vacation
+wordpress_id: 156
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+Starting today I'm taking about a week off from work.  I've been so busy lately that some time away should really do me some good.
+
+I've already spent some of my time working on my site.  I upgraded some programs that were out of date, added tags to the blog, recategorized some posts.  Mostly just cleaning up.
+
+It's weird: I finally have some free time away from the servers and coding and what do I do first?  Play with my server and write code.  I'm not sure if that is a good thing or a bad thing.
+
+Anyway, I have a few books to keep me [Principles, Patterns, and Practices in C#](http://www.phptr.com/title/0131857258) and [Patterns of Enterprise Application Architecture](http://www.martinfowler.com/books.html#eaa).  I've been looking to the ppp book for a while and just got it today.Well, I guess yesterday since it is currently 1:14AM.  Thank god I don't work tomorrow.
+
+I also got a few games recently that I should play.  A few for the PC and a few for the DS.  [Red Orchestra](http://www.redorchestragame.com/) is a mod-turned-game that I played all the time back in the day.  I'm really enjoying the new [Mario Kart](http://www.mariokart.com/mkds/).
+
+On top of all that I have a [convention](http://www.kumoricon.com/) to go to for the weekend.
+
+Should be a _very_ geeky week!

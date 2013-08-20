@@ -1,0 +1,17 @@
+---
+author: David Hogue
+comments: false
+date: 2005-11-01 07:37:33+00:00
+layout: post
+slug: cookies
+title: Cookies
+wordpress_id: 295
+categories:
+- Bend
+tags:
+- old-blog
+---
+
+These cookies taste like patriotism.
+So, what does patriotism taste like?
+Orange halloween cookies...

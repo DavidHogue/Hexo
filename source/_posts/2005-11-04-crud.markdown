@@ -1,0 +1,19 @@
+---
+author: David Hogue
+comments: false
+date: 2005-11-04 20:09:52+00:00
+layout: post
+slug: crud
+title: CRUD
+wordpress_id: 297
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+So the last project I worked on was brand new and stood completely on it's own.  I was able to try out some new frameworks.  I used both nhibernate and spring.net.  I'd never used an [O/RM](http://en.wikipedia.org/wiki/O/RM) tool before so it was a learning experience.  In the end I'm very happy with how the system works.  I'll be interested in how easy maintenance is down the road.
+
+Now I'm working on an add-on to an existing product and I am having to write stored procedures for everything (creating, retreiving, etc).  I feel like I'm barely making any progress and I should be spending my time working on more important parts of the system, not the same kind of code that has been written over and over and over.
+
+I didn't realize just how much I liked nhibernate until I went back to this.

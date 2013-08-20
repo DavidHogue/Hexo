@@ -1,0 +1,19 @@
+---
+author: David Hogue
+comments: false
+date: 2008-01-02 05:33:02+00:00
+layout: post
+slug: so-2008-is-here
+title: So 2008 is here...
+wordpress_id: 246
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+Another year came and went already.  I had a lot of fun in 2007 and I'm excited about the next year.  
+
+There's a lot of interesting things coming up in the .net world: .net 3.5 and Visual Studio 2008 are finally out, the ASP.NET MVC framework is looking good, the ALT.NET stuff is giving some attention to non-Microsoft tools.  I've been working on some interesting stuff for a while now that should get some use soon.
+
+I'm not really much for the resolutions and stuff.  I will try to get more content up here this year.  So far I've kept this blog running.  I haven't abandoned it yet.  I have a ton more ideas that I just haven't written down yet.

@@ -1,0 +1,46 @@
+---
+author: David Hogue
+comments: false
+date: 2007-01-01 01:26:06+00:00
+layout: post
+slug: so-long-2006
+title: So Long 2006
+wordpress_id: 181
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+So, the end of the year is finally here.  It's almost 2007!
+
+Early on this year I decided it probably wasn't going to be a great year for me personally.  I was kind of down at the beginning of the year.  I had just moved out of a house I really liked; several friends either moved away or I just didn't see very often anymore.  There really wasn't anything exciting to me coming up.
+
+My plan for the last year was basically: learn more, get more work experience, save up some money, and make some plans for the next year.
+
+2006 did have it's good points:  
+
+
+
+	
+  * I got back in touch with some friends towards the end of the year.
+
+	
+  * I learned a ton through work and independent reading.
+
+	
+  * I played some good games, found some music I liked.
+
+	
+  * I rediscovered an interest in game development.
+
+	
+  * I got to spend a lot more time with my little brother.
+
+
+
+That's all I can think of right now, but there's probably a few other things I could add to that list.
+
+A good chunk of time just flew by because I was so busy.  One of the many reasons I wanted to start a blog was so that in times like this I could go back and figure out where the hell all the missing time went.  I haven't yet, but at some point soon I want to go back through all my posts for the year.
+
+I'm also going to do my best to make 2007 a great year for me.  Already some plans are starting to come together and I've got more plans floating around in my head that I haven't actually decided on yet.  I'm going to try to be more active here too.

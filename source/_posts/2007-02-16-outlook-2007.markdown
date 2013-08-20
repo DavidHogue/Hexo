@@ -1,0 +1,22 @@
+---
+author: David Hogue
+comments: false
+date: 2007-02-16 20:40:40+00:00
+layout: post
+slug: outlook-2007
+title: Outlook 2007
+wordpress_id: 193
+categories:
+- Technology
+tags:
+- old-blog
+---
+
+So I got Office 2007 today.  I've only used Outlook so far and it seems alright.  I like some of the new stuff.  The "To-Do Bar" is nice.
+
+I find it a little odd that the main window isn't consistent with the rest of the applications: it has menus, the big glowing orb isn't there, etc.
+
+One thing that was bugging me was that it kept asking to install "Instant Search".  It asked at startup and there was a annoying orange button on each screen asking me to install Instant Search.  I went to go install this Instant Search: turns out it's just a different name for Microsoft's desktop search.
+
+I didn't feel like installing it, but I really didn't want that button asking me to install it.  I found out how to remove it from a comment on this page: [Outlook 2007 & Instant Search](http://thinkersroom.com/bytes/2007/01/07/outlook-2007-instant-search/).  Basically: Tools -> Options -> Other tab -> Advanced Options -> Show prompts to enable Instant Search.
+

@@ -1,0 +1,21 @@
+---
+author: David Hogue
+comments: true
+date: 2013-01-31 22:50:05+00:00
+layout: post
+slug: thirty
+title: '30'
+wordpress_id: 1171
+categories:
+- Meta
+---
+
+So I turned 30 the other day. It sounded like a big deal, but now that it's here it doesn't seem like all that big of a number really. Maybe this is a good opportunity for me to write a bit and reflect on the last year.
+
+I feel like I've been falling behind in the technology department a bit. Not that anything I'm working with is out of date at all, just that the brand new stuff doesn't excite me as much as it used to. Like node.js for example, I know what it is and I understand how it works at a high level. I just don't have a need for it now, so I'm not going to spend much time on it. I think that's part of the reason I'm not writing as much as I used to.
+
+I finally learned Git pretty thoroughly lately. I see so many large open source projects jumping to it that I figured I should learn it to stay relevant. It really helps that I can use it against a Subversion server too.
+
+I've been spending more time on things that are a little outside the software world. I've been working out, cooking, taking pictures, etc. a lot. I do enjoy all these things. I'm also getting better at the boring stuff like getting organized and paying bills and saving money.
+
+At the same time I miss being excited about new tech. Someday in the not too distant future I should start up some personal projects. I'm thinking I could make a phone app or a game sometime. Or even contribute a bug fix here and there. Maybe I'll have a few more posts about patterns or strategies instead of technical howtos.

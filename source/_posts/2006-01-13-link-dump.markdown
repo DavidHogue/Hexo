@@ -1,0 +1,46 @@
+---
+author: David Hogue
+comments: false
+date: 2006-01-13 23:03:10+00:00
+layout: post
+slug: link-dump
+title: Link Dump
+wordpress_id: 323
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+I just had a few links to stuff I've been reading recently that I thought I'd post.  More for my future reference than anything else.  Most of them are software development related and I would think they would be pretty boring for most people.
+
+
+
+
+
+  * 
+[ Implementing the Domain Model](http://codebetter.com/blogs/scott.bellware/archive/2006/01/09/136362.aspx) by Scott Bellware continuing a great series of posts about developing an application.
+
+
+
+  * 
+[Best and Worst Practices for Mock Objects](http://codebetter.com/blogs/jeremy.miller/archive/2006/01/10/136407.aspx) by Jeremy D. Miller continuing a series on mock objects.
+
+
+
+  * 
+[ MSF for Agile update released - still doesn't hit the mark](http://codebetter.com/blogs/jeffrey.palermo/archive/2006/01/11/136437.aspx) by Jeffrey Palermo.  Just yesterday I was skimming through a Microsoft book called "Analyzing Requirements and Defining Microsoft .NET Solution Architectures".  (This was for a certification test I was considering.  See [this](http://blogs.smartz.com/index.php/archives/109) and [this](http://blogs.smartz.com/index.php/archives/110))  The whole process seemed very rigid with lots of documentation.  Plus, there was one of the most ridiculous architectures I have ever heard of: the Layered-client-cache-stateless-cache-server architecture!
+
+
+
+  * 
+[Better Time Tracking](http://controlledagility.typepad.com/weblog/2005/11/better_time_tra.html) on Controlled Agility about time tracking, estimating, tasks, management.  I know we (as do most developers) struggle with these topics.  He's got some interesting ideas if nothing else.
+
+
+
+  * 
+[Code Templates in Visual Studio 2005](http://msdn.microsoft.com/msdnmag/issues/06/01/CodeTemplates/default.aspx) on msdn.  Attemting to modify the templates in VS2003 was not at all easy to do.  I'm glad added some support for custom templates with the new version.
+
+
+
+Also, unrelated to software development: If you haven't tried [Pandora](http://pandora.com/), go try it.  It is personalized streaming music.  You tell it a song or band and it just starts playing similar music right on the page.  No setup, no installation,  no giving them all your personal details, etc.   It's kind of like [last.fm](http://last.fm), but different.

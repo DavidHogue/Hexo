@@ -1,0 +1,19 @@
+---
+author: David Hogue
+comments: false
+date: 2005-09-30 02:34:33+00:00
+layout: post
+slug: wow
+title: Wow
+wordpress_id: 287
+categories:
+- Meta
+tags:
+- old-blog
+---
+
+So, in a [post](http://vorpal.cc/wp/?p=3) yesterday I mentioned that I wanted to try NHibernate.  Today I went looking for information about it.  I type it into [Feedster](http://feedster.com/search.php?hl=en&ie=UTF-8&q=nhibernate&sort=date) to see if there were any blogs about it.
+
+I'm the second link there!  That's just cool.  I didn't setup anything to do that other than WordPress (and I any barely changed any of the default settings).  With how interconnected blogs are it's no wonder that they get the google rankings they do.
+
+I had originally dismissed blogging because most of the technology is basic or a new take on old ideas.  RSS: just a different way to view the same data; Posting and comments have been done before.  And I never thought much about pings and trackbacks before.  They always just weird comments that I would see sometimes.  And of course the word itself seemed a little silly.

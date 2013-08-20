@@ -1,0 +1,21 @@
+---
+author: David Hogue
+comments: false
+date: 2005-12-19 20:01:01+00:00
+layout: post
+slug: memories
+title: Memories
+wordpress_id: 317
+categories:
+- Software Development
+tags:
+- old-blog
+---
+
+Don't know why but I have some very distinct memories of key points in my programming life.  Maybe it's the beers or the fact that I am still at work at 11:00 PM*...
+
+![square](/blog/wp-content/021_square_02.gif)The first is logo, the language that was used to move a "turtle" in that old apple IIe program.  I distinctly remember the first time I saw it (back in 3rd grade or so) and being incredibly pleased that I could type commands and make it move.  I remember seeing code that you could load to have it draw complex circles and stuff, but I wasn't interested.  I wanted to write my own commands.  Possibly my first experience of "not invented here syndrome".
+
+The second is far later while learning C++.  When I was reading about namespaces and classes and didn't see what all the fuss was about.  I could write functions in namespaces or I could nest classes just like namespaces.  Infact I remeber thinking that I could do the same exact thing with nested classes and some pointers in C.  Now, looking back, it's amazing how little I understood about OOP.  I had thought I understood everything and I thought I was smarter than I actually was.
+
+_*Post was written a few days ago, just getting around to posting now._
