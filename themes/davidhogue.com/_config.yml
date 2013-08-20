@@ -2,7 +2,7 @@ menu:
   Blog: /blog/
   About: /
   Contact: mailto:david@davidhogue.com
-  Subscribe: 
+  Subscribe: /blog/atom.xml
 
 widgets: 
 #- search
