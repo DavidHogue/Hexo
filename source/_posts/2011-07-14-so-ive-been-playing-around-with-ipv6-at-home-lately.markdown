@@ -15,13 +15,13 @@ tags:
 
 IPv6, if you haven't heard, is supposed to be the future protocol of the internet.  Currently we're all using IPv4 to talk to servers and such online.  IPv4 has a limited number of addresses and there's enough computers online these days that we're running out.  IPv4 has the familiar address format like 192.168.1.1, where IPv6 supports many more addresses and has a format like fe80::202:b3ff:fe1e:8329.  The [Wikipedia article](http://en.wikipedia.org/wiki/IPv6) might be a good place to start if you'd like to know more.
 
-Thanks to [Linode](http://blog.linode.com/2011/05/03/linode-launches-native-ipv6-support/), I now have a native IPv6 address on my server.  (You should be able to load this site over IPv6 if have it or you could use a [proxy](http://davidhogue.com.ipv4.sixxs.org/blog/2011/07/so-ive-been-playing-around-with-ipv6-at-home-lately/).)
+Thanks to [Linode](http://blog.linode.com/2011/05/03/linode-launches-native-ipv6-support/), I now have a native IPv6 address on my server.  (You should be able to load this site over IPv6 if have it or you could use a [proxy](https://davidhogue.com.ipv4.sixxs.org/blog/2011/07/so-ive-been-playing-around-with-ipv6-at-home-lately/).)
 
 I checked with my ISP to see if they had any kind of IPv6 trial going on, but no luck there.  Not too surprising really.
 
 So I decided to see if my new [ASUS RT-N16](http://www.asus.com/Networks/WiFi_Networking/RTN16/) could do IPv6 through a tunnel.  I'd installed the [TomatoUSB](http://tomatousb.org/) firmware on it and heard some talk about IPv6 with it, but found no settings for it.  I finally downloaded a pre-release build of the firmware and that had settings.
 
-[![](http://davidhogue.com/wp-uploads/2011/07/Tomato_IPv6-300x229.png)](http://davidhogue.com/wp-uploads/2011/07/Tomato_IPv6.png)
+[![](https://davidhogue.com/wp-uploads/2011/07/Tomato_IPv6-300x229.png)](https://davidhogue.com/wp-uploads/2011/07/Tomato_IPv6.png)
 
 The image I used specifically was tomato-K26USB-NVRAM60K-1.28.9055MIPSR2-git-13042011-Ext.trx from [http://manveru.pl/tomato/index.html](http://manveru.pl/tomato/index.html)
 

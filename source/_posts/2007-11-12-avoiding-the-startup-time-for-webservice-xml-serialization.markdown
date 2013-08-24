@@ -36,7 +36,7 @@ I later found [a page on MarkItUp about SGen.exe](http://markitup.com/Posts/Post
 
 I never noticed it before (maybe because I had to scroll down the properties page), but there was a simple drop down in Visual Studio for this.  Switching it from Auto to On built the assembly automatically!
 
-![XmlSerialization](http://davidhogue.com/wp-uploads/2007/11/xmlserialization.png)
+![XmlSerialization](https://davidhogue.com/wp-uploads/2007/11/xmlserialization.png)
 
 
 

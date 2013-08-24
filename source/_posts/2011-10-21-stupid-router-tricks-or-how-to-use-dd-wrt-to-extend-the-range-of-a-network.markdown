@@ -27,11 +27,11 @@ So I installed DD-WRT. It has a feature I've never seen on any other router: it 
 
 So I set it up to repeater mode, gave it everything it needed to connect to the wifi signal, and added a virtual interface:
 
-[![](http://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater.png)](http://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater.png)
+[![](https://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater.png)](https://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater.png)
 
 Before I was done, I wanted to go and setup some security. It was nice I could do this separately for each interface:
 
-[![](http://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater-Security.png)](http://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater-Security.png)
+[![](https://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater-Security.png)](https://davidhogue.com/wp-uploads/2011/10/Wifi-Repeater-Security.png)
 
 After doing all this and rebooting a few times, it worked! I had a router that would essentially use a hotspot as a wan port. It was a little finicky at first, but once it started working it was rock solid.
 

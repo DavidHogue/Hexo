@@ -16,9 +16,9 @@ tags:
 
 
 
-[![](http://davidhogue.com/wp-uploads/2011/01/Outlook-New-pst-238x300.png)](http://davidhogue.com/wp-uploads/2011/01/Outlook-New-pst.png)
+[![](https://davidhogue.com/wp-uploads/2011/01/Outlook-New-pst-238x300.png)](https://davidhogue.com/wp-uploads/2011/01/Outlook-New-pst.png)
 
-[![](http://davidhogue.com/wp-uploads/2011/01/Outlook-Copy-Folder-209x300.png)](http://davidhogue.com/wp-uploads/2011/01/Outlook-Copy-Folder.png)
+[![](https://davidhogue.com/wp-uploads/2011/01/Outlook-Copy-Folder-209x300.png)](https://davidhogue.com/wp-uploads/2011/01/Outlook-Copy-Folder.png)
 
 
 

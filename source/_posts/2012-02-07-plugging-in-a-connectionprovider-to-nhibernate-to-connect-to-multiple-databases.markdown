@@ -16,7 +16,7 @@ I recently had a scenario where I needed to connect to a variety of databases de
 
 I’d originally done this with many SessionFactories ([like this post does](http://codebetter.com/karlseguin/2009/03/30/using-nhibernate-with-multiple-databases/).)
 
-After a while I ran into memory usage issues (See [this post about debugging with WinDbg](http://davidhogue.com/blog/2011/12/some-windbg-notes-for-troubleshooting-excessive-memory-usage/).)
+After a while I ran into memory usage issues (See [this post about debugging with WinDbg](https://davidhogue.com/blog/2011/12/some-windbg-notes-for-troubleshooting-excessive-memory-usage/).)
 
 So that’s when I started looking for another option. What I wanted to do was use one factory and supply it with connections to the right databases.
 
