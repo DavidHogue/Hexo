@@ -44,7 +44,7 @@ They don't make things perfect, but at least I feel like I'm in control now.
 
 I lose a lot of time to things like emails coming in, IM conversations. Just one email or IM discussion can easily eat an hour. I really try to be as helpful as I can, but sometimes I don't have time left at the end of the day.
 
-![](http://davidhogue.com/wp-uploads/2012/05/Inbox-numbers.png)
+![](https://davidhogue.com/wp-uploads/2012/05/Inbox-numbers.png)
 
 I've been pretty good about implementing [Inbox Zero](http://inboxzero.com/). I rarely have any emails left in my inbox by the end of the day and I have filters for mailing lists and CC's. However I'd like to start processing my email in batches, so I don't have to deal with it first thing in the day. The problem is that as soon as Outlook opens and I glance at that number, I feel compelled to take a few minutes and at least sort them. And then if there's just one that doesn't make sense or asks me to do something I can't get done, it nags at me the rest of the day.
 

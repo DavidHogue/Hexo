@@ -49,7 +49,7 @@ to experiment with the tools a bit.
 
 
 You should get something that looks a little bit like this:
-![](http://davidhogue.com/blog/wp-content/uploads/2013/05/dev%20tools%20references.png)
+![](https://davidhogue.com/blog/wp-content/uploads/2013/05/dev%20tools%20references.png)
 
 It doesn't link you directly to the source file, but you do get variable names
 which you can then find in your code. This works best if you can do it on a

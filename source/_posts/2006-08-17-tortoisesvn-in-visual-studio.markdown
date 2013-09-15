@@ -55,7 +55,7 @@ Ever wanted to use [TortoiseSVN](http://tortoisesvn.net/) from [VisualStudio?](h
 
 
 
-I have created a toolbar with Update, Log, Check, Revert, and Commit ![tortoise toolbar](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisedone.png).  The commands work the same as if you right clicked the folder containing the solution.  Follow the steps below to get your own tortoise toolbar.
+I have created a toolbar with Update, Log, Check, Revert, and Commit ![tortoise toolbar](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisedone.png).  The commands work the same as if you right clicked the folder containing the solution.  Follow the steps below to get your own tortoise toolbar.
 
 
 
@@ -65,7 +65,7 @@ I have created a toolbar with Update, Log, Check, Revert, and Commit ![tortoise 
 
 Select Tools > External Tools... from the Visual Studio menu.  Add a tool using the following info.
 
-[![adding tortoise to the menu](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisesetup.thumbnail.png)](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisesetup.png)
+[![adding tortoise to the menu](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisesetup.thumbnail.png)](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisesetup.png)
 
 
 
@@ -195,7 +195,7 @@ Arguments
 
 You should have the commands in your tools menu.  Try them out and make sure they all work. 
 
-[![tools menu with tortoise commands](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisemenu.thumbnail.png)](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisemenu.png)
+[![tools menu with tortoise commands](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisemenu.thumbnail.png)](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisemenu.png)
 
 
 
@@ -209,7 +209,7 @@ Now go back to customize, select the commands tab, and scroll down to the tools 
 
 You can rename the commands in the toolbar by selecting a button with the customize window open, then clicking the Modify Selection button, then Name:.
 
-[![changing the toolbar names](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisetoolbar.thumbnail.png)](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisetoolbar.png)
+[![changing the toolbar names](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisetoolbar.thumbnail.png)](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisetoolbar.png)
 
 
 
@@ -223,7 +223,7 @@ Go to [http://tortoisesvn.tigris.org/svn/tortoisesvn/trunk/src/Resources/](http:
 
 The pasted image won't be transparent, so you need to edit the image.  Right-click and select Edit Button Image.  Then erase all the black area.
 
-[![erasing the transparent part of the icons](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoiseicons.thumbnail.png)](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoiseicons.png)
+[![erasing the transparent part of the icons](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoiseicons.thumbnail.png)](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoiseicons.png)
 
 
 
@@ -231,7 +231,7 @@ The pasted image won't be transparent, so you need to edit the image.  Right-cli
 
 
 
-Your toolbar should look something like this: ![tortoise toolbar](http://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisedone.png)
+Your toolbar should look something like this: ![tortoise toolbar](https://davidhogue.com/blog/wp-content/uploads/2006/08/tortoisedone.png)
 
 
 

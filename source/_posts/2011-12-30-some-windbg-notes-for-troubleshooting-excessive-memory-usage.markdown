@@ -15,7 +15,7 @@ tags:
 - windbg
 ---
 
-[![!GCRoot](http://davidhogue.com/wp-uploads/2011/12/WinDbg-gcroot-300x240.png)](http://davidhogue.com/wp-uploads/2011/12/WinDbg-gcroot.png)
+[![!GCRoot](https://davidhogue.com/wp-uploads/2011/12/WinDbg-gcroot-300x240.png)](https://davidhogue.com/wp-uploads/2011/12/WinDbg-gcroot.png)
 
 A little while ago I ran into some problems with the w3wp process gobbling up tons of memory. It ate up so much memory that after running for a few hours with high traffic, it would automatically get restarted by IIS.
 
@@ -30,7 +30,7 @@ In my case the memory was used up by how we were pushing NHibernate to do some n
 
 
 
-[![Performance Monitor](http://davidhogue.com/wp-uploads/2011/12/WinDbg-PerfMon-300x228.png)](http://davidhogue.com/wp-uploads/2011/12/WinDbg-PerfMon.png)
+[![Performance Monitor](https://davidhogue.com/wp-uploads/2011/12/WinDbg-PerfMon-300x228.png)](https://davidhogue.com/wp-uploads/2011/12/WinDbg-PerfMon.png)
 
 
 
@@ -111,9 +111,9 @@ In my case the memory was used up by how we were pushing NHibernate to do some n
 
 
 
-[![!DumpHeap -stat](http://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-stat-300x240.png)](http://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-stat.png)
+[![!DumpHeap -stat](https://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-stat-300x240.png)](https://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-stat.png)
 
-[![!DumpHeap -type System.String](http://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-strings-300x240.png)](http://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-strings.png)
+[![!DumpHeap -type System.String](https://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-strings-300x240.png)](https://davidhogue.com/wp-uploads/2011/12/WinDbg-DumpHeap-strings.png)
 
 
 

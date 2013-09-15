@@ -29,7 +29,7 @@ Maybe your code is already fast enough. Maybe it doesn't make much difference to
 ### Once you do have a problem, the first step is to determine where it is
 
 
-![](http://davidhogue.com/wp-uploads/2012/08/screenNet-timeline.png)
+![](https://davidhogue.com/wp-uploads/2012/08/screenNet-timeline.png)
 You can't start troubleshooting slowness without first having at least a general idea of where the bottleneck is. That's a common thread I'll probably mention a few more times, but to start with try to figure out if you're getting hung up at the UI end, the DB end, or somewhere in the middle.
 
 Sometimes this is as easy as watching your code run. Other times you need some tools. If your code powers a web page, open up Firebug (or your browser's equivalent) and look for where the time is spent.
@@ -44,7 +44,7 @@ If you have a database, see if you have any tracing or profiling tools. For SQL 
 
 I'm not going to go into much depth here, there are many sources that can give you pages and pages of pointers. However, there are a few easy things to check for: 1) Open up Windows Task Manager and see if the CPU or RAM are maxed out 2) Look at the tables being queries, are they huge? Do they have indexes?
 
-If Task Manager doesn't give you enough details, there's always [Performance Monitor](http://davidhogue.com/blog/2011/12/performance-monitor-tips-tricks/). Or the modern SQL Server Management Studio has it's own Activity Monitor, there should be a button on the toolbar.
+If Task Manager doesn't give you enough details, there's always [Performance Monitor](https://davidhogue.com/blog/2011/12/performance-monitor-tips-tricks/). Or the modern SQL Server Management Studio has it's own Activity Monitor, there should be a button on the toolbar.
 
 Try running the queries directly against the database, instead of through your code. Are they still slow? Great, start tweaking the query or the table until it gets better. Do this on a backup copy of the data and not your live production data!
 

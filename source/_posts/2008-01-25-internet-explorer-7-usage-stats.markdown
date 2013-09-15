@@ -18,7 +18,7 @@ So Internet Explorer 7 has been out for over a year (it was released on October 
 
 I'm hopeful for IE8, but who knows.  IE 8, if you haven't heard has a third rendering mode, in addition to standard and quirks modes, that is triggered by a meta tag (see [this A List Apart page for some details](http://alistapart.com/articles/beyonddoctype).)  I'm not terribly fond of the new meta tag, but I can live with it I guess.
 
-![My IE stats](http://davidhogue.com/wp-uploads/2008/01/croppercapture1.png)
+![My IE stats](https://davidhogue.com/wp-uploads/2008/01/croppercapture1.png)
 
 A few months ago my blog's stats were showing a 50/50 split between IE6 and IE7.  Now it's closer to 75% IE7 and 25% IE6.  The [browser stats page at W3Schools](http://www.w3schools.com/browsers/browsers_stats.asp) has IE6 ahead of IE7 with 33.2% 21.0% of the total market.
 

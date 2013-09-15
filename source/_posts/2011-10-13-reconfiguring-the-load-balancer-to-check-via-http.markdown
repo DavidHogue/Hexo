@@ -25,10 +25,10 @@ I tried negotiate last week on QA servers, and it immediately marked every serve
 
 I've setup the web on our QA servers to accept connections on port 3333 with a specific host header. That way the load balancer can check if the app pool is running and the file can be stored in our project, but it's unlikely someone will accidentally browse to it. (I'm thinking about reversing this decision for production honestly.)
 
-[![](http://davidhogue.com/wp-uploads/2011/10/Load-balancer-settings.png)](http://davidhogue.com/wp-uploads/2011/10/Load-balancer-settings.png)
+[![](https://davidhogue.com/wp-uploads/2011/10/Load-balancer-settings.png)](https://davidhogue.com/wp-uploads/2011/10/Load-balancer-settings.png)
 
 After I made the changes to QA, I tried stopping app pools and causing crashes by changing the version of asp.net used. I never got any errors in my browser and the server was marked as non-nactive.
 
-[![](http://davidhogue.com/wp-uploads/2011/10/Load-balancer-status.png)](http://davidhogue.com/wp-uploads/2011/10/Load-balancer-status.png)
+[![](https://davidhogue.com/wp-uploads/2011/10/Load-balancer-status.png)](https://davidhogue.com/wp-uploads/2011/10/Load-balancer-status.png)
 
 This could use a little more testing, but I think it's a good solution.

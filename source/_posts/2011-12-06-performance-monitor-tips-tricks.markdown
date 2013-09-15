@@ -96,7 +96,7 @@ I’ve been doing a lot of digging into performance monitor this last week or so
 
 
 	
-  * [![](http://davidhogue.com/wp-uploads/2011/12/PerfmonSettings-e1323212921916-150x51.png)](http://davidhogue.com/wp-uploads/2011/12/PerfmonSettings.png)There are a couple buttons in the toolbars for copying and pasting settings.
+  * [![](https://davidhogue.com/wp-uploads/2011/12/PerfmonSettings-e1323212921916-150x51.png)](https://davidhogue.com/wp-uploads/2011/12/PerfmonSettings.png)There are a couple buttons in the toolbars for copying and pasting settings.
 
 	
 		
@@ -118,7 +118,7 @@ I’ve been doing a lot of digging into performance monitor this last week or so
 
 
 As an example, here’s a couple graphs of a server I was testing a while ago. First, traffic to the server. It doesn’t look like it was all that busy, almost 5 requests a second on average:
-![](http://davidhogue.com/wp-uploads/2011/12/PerfmonGraph1.png)
+![](https://davidhogue.com/wp-uploads/2011/12/PerfmonGraph1.png)
 
 And here’s memory usage, you can see how the Gen 2 heap size grows and grows up to around 1.5GB when the app pool recycles:
-![](http://davidhogue.com/wp-uploads/2011/12/PerfmonGraph2.png)
+![](https://davidhogue.com/wp-uploads/2011/12/PerfmonGraph2.png)
