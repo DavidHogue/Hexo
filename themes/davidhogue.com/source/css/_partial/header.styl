@@ -22,11 +22,13 @@
   h2
     font-weight normal
     font-size 1.2em
-    font-family font-default
+    font-family font-serif
     line-height 1
     position absolute
     top 37px
     left 110px
+    @media screen and (max-width: 320px)
+      display: none
     @media screen and (max-width: 760px)
       font-size 1em
     @media screen and (max-width: 1260px)
@@ -46,3 +48,9 @@
       li
         float left
         margin-left 30px
+
+  #main-nav
+    @media screen and (max-width: 320px)
+      max-width 175px
+      bottom: 0px
+      line-height: 1.5em

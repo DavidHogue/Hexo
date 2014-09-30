@@ -1,5 +1,6 @@
 menu:
   Blog: /blog/
+  Photography: /portfolio/
   About: /
   Contact: mailto:david@davidhogue.com
   Subscribe: /blog/atom.xml
