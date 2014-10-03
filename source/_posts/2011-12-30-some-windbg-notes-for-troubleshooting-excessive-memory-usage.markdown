@@ -37,39 +37,28 @@ In my case the memory was used up by how we were pushing NHibernate to do some n
 
   
   1. I have a memory dump I made with [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) on the server when it had been running for 3 hours and was about to be recycled.
-
   
   2. The Gen2 heap size was what was growing up to 1.4GB. The other heaps stayed about the same size for the life of the app. Which apparently is common when there is a memory leak. I was able to tell this with performance counters and then confirm it with windbg.
-
   
   3. The type taking up the most memory is strings, after that various types of arrays. Which also seems normal, even if there wasn't a leak.
-
   
   4. From a random sampling of strings, most look like SQL fragments, but some are HTML content. Makes sense, most of the strings in this particular app are going to be HTML or SQL.
-
   
   5. WinDbg did take a very long time to do some operations on the 3GB memory dump. Using an SSD helped, but I still had to be patient for some operations
-
   
   6. Finally it started looking like the NHibernate query cache was holding on to a bunch of data. There's a similar issue that was discovered [here](http://markmail.org/message/a3zftctucv65n27s#query:+page:1+mid:a3zftctucv65n27s+state:results).
-
   
   7. The data is rooted in a static property so it will never be garbage collected. Our code was written this way since the documentation said to only create each session factory once and store it.
-
   
   8. One NHibernate SessionFactory on its own isn¿t too bad, it only took up 34MB. Where it gets problematic is when we have a bunch of those in memory.
-
   
   9. <strike>In the near term, I think this can be fixed by using some [WeakReferences](http://msdn.microsoft.com/en-us/library/system.weakreference.aspx).</strike> Longer term I'd like to use only one or two SessionFactories.
-
   
   10. I found out that a [MemoryCache](http://msdn.microsoft.com/en-us/library/system.runtime.caching.memorycache.aspx) would be better than WeakReferences.
-    
       
-    * WeakReferences go away as soon as the garbage collector runs if nobody is using them, the cached items go away when memory is tight.
-
+  * WeakReferences go away as soon as the garbage collector runs if nobody is using them, the cached items go away when memory is tight.
     
-    * Even longer term, I'd like to get down to just a few or even one session factory. I think reading up on sharding might be the next step here.
+  * Even longer term, I'd like to get down to just a few or even one session factory. I think reading up on sharding might be the next step here.
 
     
   
